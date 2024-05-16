@@ -30,10 +30,10 @@ const {
 
 const { author } = details
 
-// console.log('Song: ', song)
-// console.log('Song: ', anotherSong)
-// console.log('Duration: ', duration)
-// console.log('Author: ', author)
+console.log('Song: ', song)
+console.log('Song: ', anotherSong)
+console.log('Duration: ', duration)
+console.log('Author: ', author)
 
 const [ , , trunks = 'Not found' ]: string[] = ['Goku', 'Vegeta']
 
